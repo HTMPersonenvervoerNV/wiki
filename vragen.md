@@ -12,3 +12,4 @@ Ook aan versiebeheer is bedacht, oude versies blijven bewaard als nieuwe materia
 3. Kan ik zelf wat bijdragen aan de website?
 Ja, dat kan! Als je mee wilt werken aan het onderhouden van deze pagina's, of ideeen hebt voor nieuwe informatie, neem dan contact op met Daan.
 Mocht je al iets meer van versie beheer systemen weten, neem even een kijkje op de [github pagina](https://github.com/HTMPersonenvervoerNV/wiki).
+We zijn inmiddels begonnen aan een [handleiding](wiki-handleiding.md).
