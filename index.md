@@ -5,6 +5,6 @@ Welkom op de informatie pagina's van HTM. Je vindt hier onder andere de sporenka
   ![](img/logo-hr.jpg)
 
 
-### Nieuwe Sporenkaart
+### Scrollen op de Sporenkaart
 
-Vandaag is de nieuwe Sporenkaart beschikbaar. We hebben ons best gedaan om weer alle maatregelen te koppelen. De maatregelen komen nu ook uit op deze website en zo is het ook gemakkelijk om te linken tussen maatregelen. Met dank aan Innovaties & Projecten in de sporenkaart nu ook een stuk kleiner.
+Er zijn een aantal vragen binnen gekomen hoe eenvoudiger kan worden gescrolled op de sporenkaart. Houdt de middelste muisknop ingedrukt, vervolgens kan er naar alle kanten worden bewogen.
