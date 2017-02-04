@@ -18,7 +18,7 @@
 [Documentatie]()
 
   * # Winter 2016
-  * [Alle Maatregelen](maatregelen.md)
+  * [Alle Maatregelen](maatregelen/index.md)
   - - - -
   * # Wiki
   * [Vragen](vragen.md)
