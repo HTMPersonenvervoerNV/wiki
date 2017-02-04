@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+# -*- coding: utf-8 -*-
 
 import sys
 import re
@@ -21,7 +22,7 @@ def renderBuffer(buf):
     buf.insert(1, '## Maatregel')
 
     for x in range(0, len(buf)):
-        if buf[x].startswith('Beide richtingen') or buf[x].endswith(' richting') or buf[x].startswith('Alle gevallen'):
+        if buf[x].startswith('Beide richtingen') or buf[x].startswith('Eén richting') or buf[x].startswith('Alle gevallen'):
             buf[x] = '### ' + buf[x]
         elif buf[x].startswith('Reizigerseffecten') or buf[x].startswith('Vervangend vervoer') or buf[x].startswith('Aanvullende maatregelen'):
             buf[x] = '## ' + buf[x]
