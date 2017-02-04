@@ -48,5 +48,5 @@ with open(sys.argv[1], 'r') as f:
     renderBuffer(buf)
 
 with open('index.md', 'w') as f:
-    f.write('\n'.join(['[%s](maatregelen/%s.md)' % (x, y) for x, y in alles]))
+    f.write('\n'.join(['[%s](%s.md)' % (x, y) for x, y in alles]))
 
