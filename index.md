@@ -5,6 +5,6 @@ Welkom op de informatie pagina's van HTM. Je vindt hier onder andere de sporenka
   ![](img/logo-hr.jpg)
 
 
-### Scrollen op de Sporenkaart
+### Nieuwe Bijsturingsmaatregelen
 
-Er zijn een aantal vragen binnen gekomen hoe eenvoudiger kan worden gescrolled op de sporenkaart. Houdt de middelste muisknop ingedrukt, vervolgens kan er naar alle kanten worden bewogen.
+De bijsturingsmaatregelen zijn bijgewerkt naar het document van 30 januari 2017. We zijn nog in afwachting van de aanpassingen op de sporenkaart.
