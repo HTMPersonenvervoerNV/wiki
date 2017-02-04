@@ -17,7 +17,7 @@
 
 [Documentatie]()
 
-  * # Winter 2016
+  * # 30 januari 2017
   * [Alle Maatregelen](maatregelen/index.md)
   - - - -
   * # Wiki
