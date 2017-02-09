@@ -11,7 +11,7 @@
   * [BusPlus (HTMbuzz)](http://busplus.waarisdetrein.nl/#/journeys/HTM/HTMbuzz)
   * [OpenEBS](https://openebs.nl/)
 
-[Reigzigers]()
+[Reizigers]()
 
   * [Omroepen (Beta)](http://broadcaster.waarisdetram.nl)
 
