@@ -17,8 +17,11 @@
 
 [Documentatie]()
 
-  * # 30 januari 2017
+  * # 11 Maart 2017
   * [Alle Maatregelen](maatregelen/index.md)
+  * [PWO Maaiveld](maatregelen/pwo-maaiveld.md)
+  * [PWO Buitengebied](maatregelen/pwo-buitengebied.md)
+  * [Per wissel ZM/RET](maatregelen/bijsturing-per-wissel.md)
   - - - -
   * # Wiki
   * [Vragen](vragen.md)

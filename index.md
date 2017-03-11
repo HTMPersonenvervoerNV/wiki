@@ -7,4 +7,4 @@ Welkom op de informatie pagina's van HTM. Je vindt hier onder andere de sporenka
 
 ### Nieuwe Bijsturingsmaatregelen
 
-De bijsturingsmaatregelen zijn bijgewerkt naar het document van 30 januari 2017. We zijn nog in afwachting van de aanpassingen op de sporenkaart.
+De bijsturingsmaatregelen zijn uitgebreid met Bijsturing per wissel Zoetermeer en Samenloop RET, PWO Maaiveld en PWO Buitengebied.
