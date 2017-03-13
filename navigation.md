@@ -11,14 +11,17 @@
   * [BusPlus (HTMbuzz)](http://busplus.waarisdetrein.nl/#/journeys/HTM/HTMbuzz)
   * [OpenEBS](https://openebs.nl/)
 
-[Reigzigers]()
+[Reizigers]()
 
   * [Omroepen (Beta)](http://broadcaster.waarisdetram.nl)
 
 [Documentatie]()
 
-  * # Winter 2016
-  * [Alle Maatregelen](winter2016.md)
+  * # 11 Maart 2017
+  * [Alle Maatregelen](maatregelen/index.md)
+  * [PWO Maaiveld](maatregelen/pwo-maaiveld.md)
+  * [PWO Buitengebied](maatregelen/pwo-buitengebied.md)
+  * [Per wissel ZM/RET](maatregelen/bijsturing-per-wissel.md)
   - - - -
   * # Wiki
   * [Vragen](vragen.md)

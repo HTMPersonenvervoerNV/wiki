@@ -5,6 +5,6 @@ Welkom op de informatie pagina's van HTM. Je vindt hier onder andere de sporenka
   ![](img/logo-hr.jpg)
 
 
-### Scrollen op de Sporenkaart
+### Nieuwe Bijsturingsmaatregelen
 
-Er zijn een aantal vragen binnen gekomen hoe eenvoudiger kan worden gescrolled op de sporenkaart. Houdt de middelste muisknop ingedrukt, vervolgens kan er naar alle kanten worden bewogen.
+De bijsturingsmaatregelen zijn uitgebreid met Bijsturing per wissel Zoetermeer en Samenloop RET, PWO Maaiveld en PWO Buitengebied.
