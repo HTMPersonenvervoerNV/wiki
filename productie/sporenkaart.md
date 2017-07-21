@@ -27,5 +27,5 @@
 ```
 6. Voeg links toe aan bestand via reguliere expressie
 ```
-:%s/>\([0-9]\+\)<\/text>/ onclick="window.open('\/wiki\/#!maatregelen\/\1.md', '_blank');">\1<\/text>/g
+:%s/>\([C]\?[0-9]\+\)<\/text>/ onclick="window.open('\/#!maatregelen\/\1.md', '_blank');">\1<\/text>/g
 ```
