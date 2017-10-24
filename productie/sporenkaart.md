@@ -14,10 +14,6 @@
 <style>
 <![CDATA[
       @font-face { font-family: "INTL_ISO"; src: url('fonts/INTL_ISO.woff') format('woff'); text-rendering:optimizeLegibility; }
-
-      text {
-        transform: translate(0.05px, 0);
-      }
 ]]>
 </style>
 ```
@@ -25,7 +21,9 @@
 ```
 </svg></body></html>
 ```
-6. Voeg links toe aan bestand via reguliere expressie
+6. Voeg links toe aan bestand via reguliere expressies
 ```
-:%s/>\([C]\?[0-9]\+\)<\/text>/ onclick="window.open('\/#!maatregelen\/\1.md', '_blank');">\1<\/text>/g
+:%s/\(.*fuchsia.*\)>\([C]\?[0-9]\+\)<\/text>/\1 onclick="window.open('\/#!maatregelen\/\2.md', '_blank');">\2<\/text>/g
+:%s/\(.*paleturquoise.*\)>\([C]\?[0-9]\+\)<\/text>/\1 onclick="window.open('\/#!maatregelen\/\2.md', '_blank');">\2<\/text>/g
+:%s/\(.*deepskyblue.*\)>\([C]\?[0-9]\+\)<\/text>/\1 onclick="window.open('\/#!maatregelen\/\2.md', '_blank');">\2<\/text>/g
 ```
