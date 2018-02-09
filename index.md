@@ -7,4 +7,4 @@ Welkom op de informatie pagina's van HTM. Je vindt hier onder andere de sporenka
 
 ### Nieuwe Bijsturingsmaatregelen en Sporenkaart
 
-De bijsturingsmaatregelen en sporenkaart zijn bijgewerkt op 24 oktober 2017.
+De bijsturingsmaatregelen en sporenkaart zijn bijgewerkt op 9 februari 2018.
