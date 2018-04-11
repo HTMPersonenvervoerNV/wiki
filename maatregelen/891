@@ -1,0 +1,9 @@
+# Wissel 891
+## Maatregel
+Bij gebruik van deze scenario’s kunnen de HTM lijnen 3 en 4 in principe blijven rijden. Wanneer er echter ophoping van voertuigen plaats vindt en de vertragingen worden groter dan 5 minuten, moet er worden uitgedund. Lijn 3 rijdt dan niet tussen ZCW en Laan van NOI (laag).
+### Niet te berijden:
+Alle voertuigen rijden tussen NDP en LVN via spoor 2.
+### Vast linksleidend:
+Geen maatregelen (vertraging).
+### Vast rechtsleidend:
+Alle voertuigen rijden tussen NDP en LVN via spoor 2.
