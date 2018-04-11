@@ -1,0 +1,9 @@
+# Wissel 892
+## Maatregel
+Bij gebruik van deze scenario’s kunnen de HTM lijnen 3 en 4 in principe blijven rijden. Wanneer er echter ophoping van voertuigen plaats vindt en de vertragingen worden groter dan 5 minuten, moet er worden uitgedund. Lijn 3 rijdt dan niet tussen ZCW en Laan van NOI (laag).
+### Niet te berijden:
+Alle voertuigen rijden tussen NDP en LVN via spoor 1. Ook tussen NDP en PAZ zal via spoor 1 gereden moeten worden. Dit valt buiten het kader van dit bijsturingsprotocol.
+### Vast linksleidend:
+Alle voertuigen richting Rotterdam rijden over spoor 2 tot sein R2 306. Vervolgens via wissel 892 over spoor 1 naar PAZ, dan via wissel 897, 896 terug naar spoor 2. Dit valt buiten het kader van dit bijsturingsprotocol.
+### Vast rechtsleidend:
+Geen maatregelen (vertraging).
