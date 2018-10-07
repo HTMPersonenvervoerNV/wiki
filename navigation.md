@@ -10,6 +10,7 @@
   * [BusPlus (Tram)](http://busplus.waarisdetrein.nl/#/journeys/HTM/Tram)
   * [BusPlus (HTMbuzz)](http://busplus.waarisdetrein.nl/#/journeys/HTM/HTMbuzz)
   * [OpenEBS](https://openebs.nl/)
+  * [PTDS](https://ptds.htmwiki.nl/)
 
 [Reizigers]()
 

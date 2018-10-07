@@ -5,6 +5,6 @@ Welkom op de informatie pagina's van HTM. Je vindt hier onder andere de sporenka
   ![](img/logo-hr.jpg)
 
 
-### Nieuwe Bijsturingsmaatregelen en Sporenkaart
+### PTDS
 
-De bijsturingsmaatregelen en sporenkaart zijn bijgewerkt op 23 augustus 2018.
+PTDS toegevoegd aan Regie menu.
