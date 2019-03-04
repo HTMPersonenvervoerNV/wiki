@@ -6,4 +6,4 @@ Welkom op de informatie pagina's van HTM. Je vindt hier onder andere de sporenka
 
 
 ### Update Sporenkaart
-Sporenkaart is bijgewerkt naar versie 22.
+Sporenkaart is bijgewerkt naar versie 23.
