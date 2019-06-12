@@ -11,6 +11,7 @@
   * [BusPlus (HTMbuzz)](http://busplus.waarisdetrein.nl/#/journeys/HTM/HTMbuzz)
   * [OpenEBS](https://openebs.nl/)
   * [PTDS](https://ptds.htmwiki.nl/)
+  * [Triggers (beta)](https://ptds.htmwiki.nl/triggers/)
 
 [Reizigers]()
 
