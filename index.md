@@ -6,4 +6,5 @@ Welkom op de informatie pagina's van HTM. Je vindt hier onder andere de sporenka
 
 
 ### Update Sporenkaart
-Sporenkaart is bijgewerkt naar versie 25. (Tijdelijke keervoorziening op de Weigelia)
+Sporenkaart is bijgewerkt naar versie 26.
+Vrijgave tracé Monstersestraat/de Heemstraat/ Parallelweg voor Regio Citadis
