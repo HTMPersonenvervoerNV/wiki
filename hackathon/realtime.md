@@ -13,7 +13,7 @@ context = zmq.Context()
 subscriber = context.socket(zmq.SUB)
 subscriber.connect("tcp://pubsub.besteffort.ndovloket.nl:7658")
 subscriber.setsockopt(zmq.SUBSCRIBE, "/RIG/KV6posinfo")
-subscriber.setsockopt(zmq.SUBSCRIBE, "/RIG/KV16cvlinfo")
+subscriber.setsockopt(zmq.SUBSCRIBE, "/RIG/KV17cvlinfo")
 
 while True:
     multipart = subscriber.recv_multipart()
