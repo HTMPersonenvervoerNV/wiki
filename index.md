@@ -5,6 +5,12 @@ Welkom op de informatie pagina's van HTM. Je vindt hier onder andere de sporenka
   ![](img/logo-hr.jpg)
 
 
+### Maatregelen bijgewerkt
+Lijst met maatregelen is bijgewerkt.
+
 ### Update Sporenkaart
-Sporenkaart is bijgewerkt naar versie 26.
-Vrijgave tracé Monstersestraat/de Heemstraat/ Parallelweg voor Regio Citadis
+Sporenkaart is bijgewerkt naar versie 27.
+
+* Wissels met verwarming in het Tramnetwerk zijn tekstueel opgenomen (zie lijst rechtsboven).
+* In de legenda is aangegeven welk type infrastructuur het betreft en welk KOP (Kinematisch Omgrenzings Profiel) er geldt voor railinfra-machines (werkvoertuigen).
+* Ook is aangegeven waar in het netwerk ontspoorbeveiliging is opgenomen (t.b.v. werkvoertuigen met banden).
