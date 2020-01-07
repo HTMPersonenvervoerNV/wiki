@@ -6,7 +6,7 @@
 
 [Regie]()
 
-  * [Formulieren](http://forms.waarisdetrein.nl/)
+  * [Formulieren](https://forms.waarisdetrein.nl/)
   * [BusPlus (Tram)](http://busplus.waarisdetrein.nl/#/journeys/HTM/Tram)
   * [BusPlus (HTMbuzz)](http://busplus.waarisdetrein.nl/#/journeys/HTM/HTMbuzz)
   * [OpenEBS](https://openebs.nl/)
