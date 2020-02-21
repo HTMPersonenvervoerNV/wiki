@@ -9,8 +9,6 @@ Welkom op de informatie pagina's van HTM. Je vindt hier onder andere de sporenka
 Lijst met maatregelen is bijgewerkt.
 
 ### Update Sporenkaart
-Sporenkaart is bijgewerkt naar versie 27.
+Sporenkaart is bijgewerkt naar versie 28.
 
-* Wissels met verwarming in het Tramnetwerk zijn tekstueel opgenomen (zie lijst rechtsboven).
-* In de legenda is aangegeven welk type infrastructuur het betreft en welk KOP (Kinematisch Omgrenzings Profiel) er geldt voor railinfra-machines (werkvoertuigen).
-* Ook is aangegeven waar in het netwerk ontspoorbeveiliging is opgenomen (t.b.v. werkvoertuigen met banden).
+Hierbij een aanvulling op de verklaring voor de vrijgave van de tijdelijke keervoorziening op de Weigelia. Het spoor is nu ook vrijgegeven voor exploitatie met Avenio voertuigen met ingang van heden, 20 februari 2020, op basis van de vorige week uitgevoerde test.
