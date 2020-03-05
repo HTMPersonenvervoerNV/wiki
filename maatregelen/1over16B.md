@@ -3,16 +3,21 @@
 ### Alle gevallen
 
 #### Tram 1
-Rijdt van Delft Tanthof naar halte Centrum, dan naar halte Gravenstraat en vervolgens route tram 16 naar Den Haag Statenkwartier v.v.
+Rijdt van Delft Tanthof naar halte Centrum.
+Dan naar Den Haag Statenkwartier via route tram 16.
 
-## Reizigerseffecten
-Alle halten tussen Kneuterdijk en Zwarte Pad vervallen.
+## Vervallen halten
+#### Tram 1
+Kneuterdijk t/m Zwarte Pad
 
-## Vervangend vervoer
-Bus 21 voor de halten Frankenslag, Kurhaus en Zwarte Pad. 
-Bus 22 voor de halten Keizerstraat, Badhuiskade en Schev.slag/Beelden aan Zee, stopt ook bij Kurhausweg. 
-Bus 22, 24 en 28 voor de halten Kneuterdijk, Mauritskade en Javastraat. Bus 24 en 28 voor halte Vredespaleis. 
-Bus 28 voor halte World Forum. 
+## Reisadvies
+Neem bus 21 tussen halten Statenplein (tijdelijke halte tram 1) en Kurhausweg of Zwarte Pad.
+Neem bus 22 voor halten Centrum t/m Javastraat en Duinstraat t/m Kurhausweg. 
+Neem bus 24 voor halten Centrum t/m Vredespaleis.
+Neem bus 28 voor halten Centrum t/m World Forum.
+
+## Aanvullende maatregelen
+Niet van toepassing
 
 ## Andere mogelijkheden
 Niet van toepassing
