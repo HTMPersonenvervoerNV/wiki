@@ -1,4 +1,4 @@
-# .RijnstraatGevel
+# RijnstraatGevel
 ## Maatregel
 ### Alle gevallen
 
