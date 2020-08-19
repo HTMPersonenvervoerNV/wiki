@@ -42,6 +42,16 @@ Aan de Leidschendamse kant:
 Rijdt van Leidschendam naar halte Stuyvesantplein. 
 Dan keren bij Station Laan van NOI via halte Stuyvesantstraat en de keerlus Laan van NOI.
 
+#### Tram 34 (ma t/m vr van 7 tot 19 uur)
+De route is opgesplitst in twee delen.
+Aan de Haagse kant: 
+Rijdt van De Savornin Lohmanplein naar halte Brouwersgracht.
+Dan keren via Jan Hendrikstraat en keerlus Rond de Grote Kerk.
+De trams stoppen bij tijdelijke halte Jan Hendrikstraat op de hoek Prinsegracht / Jan Hendrikstraat.
+Aan de Zoetermeerse kant: 
+Rijdt van Lansingerland-Zoetermeer naar halte Voorburg ’t Loo.
+Keert via het overloopwissel bij Laan van NOI.
+
 ## Vervallen halten
 #### Tram 2
 Grote Markt t/m Stuyvesantstraat
@@ -51,11 +61,13 @@ Grote Markt t/m Forepark
 Grote Markt t/m Beatrixkwartier
 #### Tram 6
 Grote Markt t/m Oostinje
+#### Tram 34 (ma t/m vr van 7 tot 19 uur)
+Grote Markt t/m Beatrixkwartier
 
 ## Reisadvies
 Neem tram 2 of 6 tussen halten Brouwersgracht en Centraal Station.
-Neem RET tussen halten Centraal Station en Laan van NOI voor overstap tram 2, 4 en 6. 
-Neem RET of tram 4 naar halte Leidschenveen voor overstap tram 3. 
+Neem RET tussen halten Centraal Station en Laan van NOI voor overstap tram 2, 4, 6 (en 34). 
+Neem RET of tram 4 (of tram 34) naar halte Leidschenveen voor overstap tram 3. 
 
 ## Aanvullende maatregelen
 RET inseinen over extra reizigers tussen Leidschenveen en Den Haag Centraal.
