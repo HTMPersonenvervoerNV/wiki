@@ -9,7 +9,6 @@ Welkom op de informatie pagina's van HTM. Je vindt hier onder andere de sporenka
 Lijst met maatregelen is bijgewerkt.
 
 ### Update Sporenkaart
-Sporenkaart is bijgewerkt naar versie 29.
+Sporenkaart is bijgewerkt naar versie 30.
 
- - Vrijgave TT Parallelweg ook voor de RegioCitadis, dus voor alle exploitatie railvoertuigen. De voorwaarden van gebruik zijn ook verwerkt in de Statuslijst (nr 772), zie snelkoppeling naar Vrijgave document (bovenaan lijst bij TT Parallelweg).  
- - In het complex Laan van NOI – Juliana van Stolberglaan zijn de wissels W230 en W232 recent elektrisch gemaakt en voorzien van wisselverwarming.  
+ - Recent is op de Weigelia het spoor weer teruggebouwd, getest en vrijgegeven, waarna de reguliere exploitatie van lijn 19 is hersteld met ingang van 12 oktober 2020.
