@@ -9,6 +9,6 @@ Welkom op de informatie pagina's van HTM. Je vindt hier onder andere de sporenka
 Lijst met maatregelen is bijgewerkt.
 
 ### Update Sporenkaart
-Sporenkaart is bijgewerkt naar versie 30.
-
- - Recent is op de Weigelia het spoor weer teruggebouwd, getest en vrijgegeven, waarna de reguliere exploitatie van lijn 19 is hersteld met ingang van 12 oktober 2020.
+Sporenkaart is bijgewerkt naar versie 31.
+ 
+ - Er zijn knooppunt nummers gewijzigd en bijgevoegd volgens opgave uit Maximo en GIS
