@@ -9,6 +9,6 @@ Welkom op de informatie pagina's van HTM. Je vindt hier onder andere de sporenka
 Lijst met maatregelen is bijgewerkt.
 
 ### Update Sporenkaart
-Sporenkaart is bijgewerkt naar versie 31.
- 
- - Er zijn knooppunt nummers gewijzigd en bijgevoegd volgens opgave uit Maximo en GIS
+Sporenkaart is bijgewerkt naar versie 33.
+
+ - Vrijgave Kneuterdijk – Parkstraat – Alexanderstraat t/m overloopvoorziening W704/W705 en terug naar het Centrum voor de Avenio t.b.v. bijsturing.
