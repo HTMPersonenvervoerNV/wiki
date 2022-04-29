@@ -2,8 +2,6 @@
 
 [Over](index.md)
 
-[Sporenkaart](sporenkaart.html)
-
 [Regie]()
 
   * [Formulieren](https://forms.waarisdetrein.nl/)
@@ -19,12 +17,6 @@
 
 [Documentatie]()
 
-  * # 11 Maart 2017
-  * [Alle Maatregelen](maatregelen/index.md)
-  * [PWO Maaiveld](maatregelen/pwo-maaiveld.md)
-  * [PWO Buitengebied](maatregelen/pwo-buitengebied.md)
-  * [Per wissel ZM/RET](maatregelen/bijsturing-per-wissel.md)
-  - - - -
   * # Wiki
   * [Vragen](vragen.md)
   * [Wiki](wiki.md)
